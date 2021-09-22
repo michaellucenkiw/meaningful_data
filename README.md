@@ -1,9 +1,16 @@
 Test
 
-<H1> Helpful Resources </H1>
-<h2> </h2>
+<H2> Helpful Resources </H2>
+<h1> </h1>
 
-https://www.arduino.cc/en/reference/firmata
-https://github.com/firmata/protocol/blob/master/protocol.md
-https://publiclab.org
-processing.org/
+https://www.arduino.cc/en/reference/firmata<BR>
+https://github.com/firmata/protocol/blob/master/protocol.md<BR>
+https://www.maxuino.org<br>
+http://processing.org/<BR>
+  
+  
+https://publiclab.org<BR>
+
+  
+  
+https://www.arduino.cc/en/Tutorial/BuiltInExamples/Smoothing
