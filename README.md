@@ -1,5 +1,7 @@
 <h1>Meaningful Data</h1>
 
+This repository contains examples and instructions touched on during my workshop.
+
 <H2> Helpful Resources </H2>
 
 
