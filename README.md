@@ -42,8 +42,8 @@ https://www.arduino.cc/en/Tutorial/BuiltInExamples/Smoothing
 Try using 'arduino-help.pd' first to get a sense of how to use this protocol. <br>
 
 Troubleshooting:
-If 'arduino' patch won't work, Other libraries that may be needed:<br>
-iemlib<br>
-nilwind<br><br>
+If 'arduino' patch won't work, Other PD external libraries that may be needed:<br>
+- iemlib<br>
+- nilwind<br><br>
 	
 If alt-get can't find Puredata, you may need to update your clock to current time. Change clock $ date -s ‘month day 00:00:00 year’<br>
